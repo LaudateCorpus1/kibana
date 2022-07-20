@@ -825,7 +825,7 @@
     "tar-fs": "^2.1.0",
     "tempy": "^0.3.0",
     "terminal-link": "^2.1.1",
-    "terser": "^5.7.1",
+    "terser": "^5.14.2",
     "terser-webpack-plugin": "^2.1.2",
     "ts-loader": "^7.0.5",
     "ts-morph": "^9.1.0",
